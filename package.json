@@ -1,5 +1,6 @@
 {
 	"author": "Abdulraheem Ahmad",
+	"description": "Boilerplate code for node js server",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
